@@ -1,4 +1,4 @@
-# Program
+# Program for working with excel documents and a database 
 
 Helper
 Незаменимый помощник для выполнения моих рутинных задач.
